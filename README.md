@@ -1,8 +1,8 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo juliana carolina piraban suarez 
-**Profesión:**tecnologa gestion de mercados 
+ juliana carolina piraban suarez 
+Profesión: tecnologa gestion de mercados 
 Tecnóloga en Gestión de Mercados con experiencia en estrategias de comercialización, atención al cliente y 
 recuperación de cartera. Habilidades en retención de clientes, cobranzas y logística, con un enfoque 
 en optimización de procesos y satisfacción del usuario.
