@@ -5,16 +5,13 @@
 Profesión:
 tecnologa gestion de mercados
 
-Tecnóloga en Gestión de Mercados con experiencia en estrategias de comercialización, atención al cliente y 
-recuperación de cartera. Habilidades en retención de clientes, cobranzas y logística, con un enfoque 
-en optimización de procesos y satisfacción del usuario.
-Cuento con conocimientos en análisis de mercado, desarrollo de productos y 
-estrategias de ventas, aplicando técnicas innovadoras para impulsar el
-posicionamiento de marcas. Además, tengo experiencia en la gestión 
-de proyectos productivos, lo que me ha permitido desarrollar 
-habilidades en planificación, negociación y atención al cliente.
-
-Busco oportunidades donde pueda aportar mi experiencia en gestión comercial, fidelización de clientes y estrategias de marketing para el crecimiento y posicionamiento de una empresa.
+Tecnóloga en Gestión de Mercados con sólida experiencia en estrategias de comercialización, atención al cliente y recuperación de cartera.
+Mi pasión por el diseño se refleja en mi dominio de Corel Draw y mi constante aprendizaje en Illustrator y Photoshop. Aplico mis 
+habilidades de diseño para potenciar la imagen y el posicionamiento de marcas, como lo demuestro en mi proyecto personal, Le Chariot.
+Busco oportunidades
+donde pueda fusionar mis conocimientos en gestión comercial y diseño para impulsar el crecimiento y la innovación de una empresa.
+Busco oportunidades donde pueda aportar mi experiencia en gestión comercial, fidelización de clientes y estrategias de marketing
+para el crecimiento y posicionamiento de una empresa.
 
 ## 📞 Contacto  
 
