@@ -5,13 +5,21 @@
 Profesión:
 tecnologa gestion de mercados
 
-Tecnóloga en Gestión de Mercados con sólida experiencia en estrategias de comercialización, atención al cliente y recuperación de cartera.
-Mi pasión por el diseño se refleja en mi dominio de Corel Draw y mi constante aprendizaje en Illustrator y Photoshop. Aplico mis 
-habilidades de diseño para potenciar la imagen y el posicionamiento de marcas, como lo demuestro en mi proyecto personal, Le Chariot.
-Busco oportunidades
-donde pueda fusionar mis conocimientos en gestión comercial y diseño para impulsar el crecimiento y la innovación de una empresa.
-Busco oportunidades donde pueda aportar mi experiencia en gestión comercial, fidelización de clientes y estrategias de marketing
-para el crecimiento y posicionamiento de una empresa.
+
+Soy tecnóloga en Gestión de Mercados con una fuerte pasión por el diseño y un sólido entendimiento de las estrategias de marketing.
+Mi formación académica me ha proporcionado una base firme en la planificación y ejecución de campañas de marketing efectivas, mientras
+que mi experiencia personal me ha permitido desarrollar habilidades avanzadas en diseño gráfico, con especialización en programas como Corel Draw.
+
+Durante mi proyecto productivo con Le Chariot, un negocio de sublimación y estampados, tuve la valiosa oportunidad de aplicar 
+mis conocimientos de marketing y diseño en un entorno práctico. Este proyecto me permitió experimentar de primera mano 
+el impacto significativo que el diseño visual puede tener en la atracción de clientes y el crecimiento de un negocio.
+
+Aunque no cuento con experiencia laboral tradicional, mi proyecto productivo me brindó la oportunidad de desarrollar 
+habilidades prácticas esenciales en:
+
+Diseño gráfico: Creación de diseños atractivos y funcionales para productos y materiales promocionales.
+Estrategias de marketing: Implementación de tácticas efectivas para aumentar la visibilidad y las ventas del negocio.
+Gestión de proyectos: Planificación y ejecución de proyectos dentro de plazos ajustados, asegurando resultados de alta calidad.
 
 ## 📞 Contacto  
 
