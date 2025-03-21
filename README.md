@@ -18,7 +18,7 @@ Busco oportunidades donde pueda aportar mi experiencia en gestión comercial, fi
 
 ## 📞 Contacto  
 
-- **Email:** [correo@ejemplo.com](lechariotjyc@gmail.com)
+- **Email:** [lechariotjyc@gmail.com]
 - **LinkedIn:** [www.linkedin.com/in/juliana-piraban-01a40a328)
 
 ## 🏢 Experiencia Laboral
